@@ -6,11 +6,11 @@ It is recommended to install the source repository instead of this fork!!
 Either:
 - Use the [openupm registry](https://openupm.com/) and install this package using the [openupm-cli](https://github.com/openupm/openupm-cli):
   ```
-  openupm add com.gilzoide.sqlite-net
+  openupm add com.davevanegdom.sqlite-net
   ```
 - Install using the [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html) with the following URL:
   ```
-  https://github.com/gilzoide/unity-sqlite-net.git#1.3.3
+  https://github.com/davevanegdom/unity-sqlite-net.git#1.3.3
   ```
 - Clone this repository or download a snapshot of it directly inside your project's `Assets` or `Packages` folder.
 
